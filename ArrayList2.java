@@ -16,12 +16,15 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  *
- * @author S528130
+ * @author Santosh goteti 
+ *This program to check the difference between Arraylist,LinkedList,HashSet and TreeSet based on colors
  */
 public class ArrayList2 {
 
     /**
      * @param args the command line arguments
+     *
+     *
      */
     public static void main(String[] args) {
 
